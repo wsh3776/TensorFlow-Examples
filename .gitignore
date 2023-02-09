@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.history/
+.ipynb_checkpoints
+*.pyc
+__pycache__
+*.egg-info
+build/*
+dist/*
+*~
+.cache
+.coverage
+checkpoint
+htmlcov
+mnist
